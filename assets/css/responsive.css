@@ -12,7 +12,7 @@
 	.banz-list {margin-top: 55px;}
 	.abt-imgz > img {max-width: 47%;}
 	.about-text > p {font-size: 18px;line-height: 31px;}
-	.banner-content > h2 {font-size: 75px;line-height: 85px;}
+	.banner-content > h2 {font-size: 50px;line-height: 60px;}
 	.banner-content {padding-top: 0;}
 	.block {padding: 130px 0;}
 	.project-text .sub-title {margin-top: 0;}
@@ -36,7 +36,7 @@
 	header nav {display: none;}
 	
 	.mint-funcz {margin-left: auto;}
-	.banner-content > h2 {font-size: 70px;line-height: 80px;}
+	.banner-content > h2 {font-size: 45px;line-height: 60px;}
 	.banner-content > p {padding-right: 30px;}
 	.banz-list li {margin-right: 40px;}
 	.banz-list li:last-child {margin-right: 0;}
@@ -45,7 +45,7 @@
 	.about-us-section .align-items-center {align-items: inherit !important;}
 	header {top: 30px;}
 	.mint-funcz {margin-right: 10px;}
-	.banner-content > h2 {font-size: 60px;line-height: 76px;}
+	/* .banner-content > h2 {font-size: 60px;line-height: 76px;} */
 	.abt-txt {bottom: 0;}
 	.team-head > h2 {font-size: 150px;margin-bottom: 30px;}
 	.team-head > h3 {font-size: 24px;line-height: 32px;}
@@ -152,7 +152,7 @@
 }
 
 @media (max-width: 768px) {
-	.banner-content > h2 {font-size: 50px;line-height: 64px;margin-bottom: 20px;}
+	.banner-content > h2 {font-size:40px;line-height: 60px;margin-bottom: 20px;}
 	.banner-content > p {font-size: 17px;margin-bottom: 40px;}
 	.section-title {margin-bottom: 70px;}
 	.process-section ul li {width: calc(100% / 2);}
@@ -246,7 +246,7 @@
 
 
 @media (max-width: 480px) {
-	.banner-content > h2 {font-size: 40px;line-height: 52px;}
+	.banner-content > h2 {font-size: 40px;line-height: 60px;}
 	.banner-content > p {padding-right: 0;}
 	.banz-list li {margin-right: 0;width: 100%;margin-bottom: 30px;}
 	.banz-list li:last-child {margin:0;}
